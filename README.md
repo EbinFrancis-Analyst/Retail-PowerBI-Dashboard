@@ -30,6 +30,14 @@ The dataset consists of two tables:
 * Sub-Category
 * Payment Mode
 
+## 📂 Project Files
+
+- Retail_Sales_Performance_Dashboard.pbix → Power BI dashboard file  
+- Orders.xlsx → Orders dataset  
+- Details.xlsx → Sales details dataset  
+- dashboard_preview.png → Dashboard screenshot  
+- README.md → Project documentation  
+
 ## 📌 Key Features
 
 * KPI Cards (Total Sales, Profit, Orders, Profit Margin)
