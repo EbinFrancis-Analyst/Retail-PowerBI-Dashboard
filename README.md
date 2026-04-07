@@ -54,10 +54,13 @@ The dataset consists of two tables:
 * DAX
 * Data Modeling
 
-## 📷 Dashboard Preview
+### Executive Dashboard
 
-![Dashboard Preview](dashboard_preview.png)
+![Executive Dashboard](dashboard_preview.png)
 
+### Product Analysis Dashboard
+
+![Product Analysis Dashboard](dashboard_page2.png)
 ## 📈 Key Insights
 
 * Electronics category generated the highest revenue.
