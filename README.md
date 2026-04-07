@@ -48,7 +48,7 @@ The dataset consists of two tables:
 
 ## 📷 Dashboard Preview
 
-(Add dashboard_preview.png here)
+![Dashboard Preview](dashboard_preview.png)
 
 ## 📈 Key Insights
 
